@@ -15,28 +15,24 @@ hr {
     margin-left: auto;
 }
 
-#green-background {
-    background-color: #96b098;
-}
-
 .plaatje {
 	border: 2px solid rgb(0, 0, 0);
 	background-color: #804a4a;
 	padding: 10px;}
 
-#photo-art {
+.photo-art {
     color: rgb(104, 104, 158);
 }    
 
-#fotografie {
+.fotografie {
     color: rgb(81, 116, 81);
 }
 
-#storytelling {
+.storytelling {
     color: rgb(179, 98, 66);
 }
 
-#web-dev {
+.web-dev {
     color: rgb(145, 114, 15);
 }
 
@@ -44,3 +40,7 @@ a {
     color: rgb(233, 95, 53);
     font-size: 14px;
   }
+
+  #green-background {
+    background-color: #96b098;
+}
