@@ -1,0 +1,46 @@
+body { 
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(51, 43, 43);
+    background-color: #d1cac2;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+}
+
+.black-border {
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: auto;
+}
+
+#green-background {
+    background-color: #96b098;
+}
+
+.plaatje {
+	border: 2px solid rgb(0, 0, 0);
+	background-color: #804a4a;
+	padding: 10px;}
+
+#photo-art {
+    color: rgb(104, 104, 158);
+}    
+
+#fotografie {
+    color: rgb(81, 116, 81);
+}
+
+#storytelling {
+    color: rgb(179, 98, 66);
+}
+
+#web-dev {
+    color: rgb(145, 114, 15);
+}
+
+a {
+    color: rgb(233, 95, 53);
+    font-size: 14px;
+  }
